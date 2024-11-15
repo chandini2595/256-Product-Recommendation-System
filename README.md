@@ -1,2 +1,2 @@
-# Ecommerce-product-recommendation-system
+# Hybrid-product-recommendation-system
 
